@@ -1,11 +1,9 @@
 class Solution(object):
     def longestPalindrome(self, s):
-        res = ""
+        ans = ""
         for i in range(len(s)):
-            for a, b in [(i, i), (i, i+1)]:  
-                while a >= 0 and b < len(s) and s[a] == s[b]:
-                    a -= 1
-                    b += 1
-                if b - a - 1 > len(res):
-                    res = s[a+1:b]
-        return res
+            for l, r in ((i, i), (i, i+1)):
+                while l >= 0 and r < len(s) and s[l] == s[r]:
+                    l -= 1; r += 1
+                ans = max(ans, s[l+1:r], key=len)
+        return ans      
