@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
