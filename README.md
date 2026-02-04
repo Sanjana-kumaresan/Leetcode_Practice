@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
