@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0024-swap-nodes-in-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
