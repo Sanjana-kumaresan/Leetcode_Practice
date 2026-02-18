@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0100-same-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
