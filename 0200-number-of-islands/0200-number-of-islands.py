@@ -1,0 +1,13 @@
+class Solution(object):
+    def numIslands(self, grid):
+        def dfs(r,c):
+            if 0<=r<len(grid) and 0<=c<len(grid[0]) and grid[r][c]=="1":
+                grid[r][c]="0"
+                dfs(r+1,c); dfs(r-1,c); dfs(r,c+1); dfs(r,c-1)
+        count=0
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                if grid[i][j]=="1":
+                    count+=1
+                    dfs(i,j)
+        return count     
