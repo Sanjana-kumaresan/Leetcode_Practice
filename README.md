@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
