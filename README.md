@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
+| [0394-decode-string](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
