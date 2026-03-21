@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0069-sqrtx) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0394-decode-string) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
