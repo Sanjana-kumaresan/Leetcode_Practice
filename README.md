@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0066-plus-one) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
