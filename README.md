@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
 ## Stack
 |  |
