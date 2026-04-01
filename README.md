@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0069-sqrtx) |
+| [0371-sum-of-two-integers](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
+| [0371-sum-of-two-integers](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
