@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0120-triangle) |
 ## Array
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0371-sum-of-two-integers](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -151,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
