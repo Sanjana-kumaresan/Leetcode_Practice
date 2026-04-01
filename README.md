@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
