@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 ## Binary Tree
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 ## Stack
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 <!---LeetCode Topics End-->
