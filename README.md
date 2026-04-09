@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0735-asteroid-collision](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0735-asteroid-collision) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Linked List
 |  |
 | ------- |
