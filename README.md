@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0394-decode-string](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0394-decode-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0735-asteroid-collision) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Binary Search
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
