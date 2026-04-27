@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0735-asteroid-collision](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0735-asteroid-collision) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -130,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
