@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0735-asteroid-collision) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0371-sum-of-two-integers](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Tree
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Stack
 |  |
 | ------- |
