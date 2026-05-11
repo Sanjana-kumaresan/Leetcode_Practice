@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Binary Search
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0735-asteroid-collision) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## Sorting
 |  |
 | ------- |
