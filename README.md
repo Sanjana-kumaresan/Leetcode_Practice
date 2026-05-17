@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0735-asteroid-collision](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0735-asteroid-collision) |
+| [1306-jump-game-iii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1306-jump-game-iii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
