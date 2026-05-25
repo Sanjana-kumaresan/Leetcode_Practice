@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0394-decode-string](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0394-decode-string) |
 | [0796-rotate-string](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0796-rotate-string) |
+| [1871-jump-game-vii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1871-jump-game-vii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0120-triangle) |
+| [1871-jump-game-vii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Array
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0796-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
