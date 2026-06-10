@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
