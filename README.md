@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0283-move-zeroes) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0135-candy) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Trie
 |  |
