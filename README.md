@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0735-asteroid-collision) |
 | [1306-jump-game-iii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1732-find-the-highest-altitude](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1732-find-the-highest-altitude) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -228,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
