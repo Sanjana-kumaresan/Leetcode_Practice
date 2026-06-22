@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [1189-maximum-number-of-balloons](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0394-decode-string](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0394-decode-string) |
 | [0796-rotate-string](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Heap (Priority Queue)
 |  |
