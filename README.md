@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -237,4 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/1871-jump-game-vii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sanjana-kumaresan/Leetcode_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
